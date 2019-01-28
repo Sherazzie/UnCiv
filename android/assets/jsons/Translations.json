@@ -147,6 +147,7 @@
 		Spanish:"Parar movimiento"
 		Simplified_Chinese:"停止移动"
 		Portuguese:"Parar movimento"
+		Malay:"Hentikan pergerakan"
 	}
 
 	"Construct improvement":{
@@ -158,7 +159,8 @@
 		Dutch:"Verbetering bouwen"
 		Spanish:"Construir mejora"
 		Simplified_Chinese:"建造建筑"
-        Portuguese:"Construir melhoria"
+       		Portuguese:"Construir melhoria"
+		Malay:"Membina penambahbaikan"
 	}
 
 	"Automate":{
@@ -171,12 +173,14 @@
 		Spanish:"Automatizar"
 		Simplified_Chinese:"自动工作"
 		Portuguese:"Automatizar"
+		Malay:"Mengautomatikkan"
 	}
 	
 	"Stop automation":{
 		Spanish:"Parar automatización"
 		Romanian:"Oprește automatizarea"
 		German:"Automatisieren anhalten"
+		Malay:"Berhenti automasi"
 	}
 
 	"Fortify":{
@@ -189,6 +193,7 @@
 		Spanish:"Fortificar"
 		Simplified_Chinese:"驻守"
 		Portuguese:"Fortificar"
+		Malay:"Memperkuatkan"
 	}
 	
 	"Fortification":{ // as in "+40% Fortification"
@@ -201,6 +206,7 @@
 		Spanish:"Fortificación"
 		Simplified_Chinese:"设防"
 		Portuguese:"Fortficação"
+		Malay:"Kuatkan"
 	}
 	
 	"Sleep":{
@@ -209,6 +215,7 @@
 		Simplified_Chinese:"睡眠"
 		Portuguese:"Dormir"
 		German:"Schlafen legen"
+		Malay:"Tidur"
 	}
 
 	"Set up":{ // For siege units
@@ -220,7 +227,8 @@
 		Dutch:"Opstellen"
 		Spanish:"Montar"
 		Simplified_Chinese:"架设"
-        Portuguese:"Montar"
+       		Portuguese:"Montar"
+		Malay:"Sediakan"
 	}
 	
 	"Upgrade to [unitType] ([goldCost] gold)":{ // EG Upgrade to Cannon (140 gold)
@@ -229,9 +237,10 @@
 		French:"Mise à niveau vers [unitType] ([goldCost] or)"
 		Romanian:"Avansare [unitType] ([goldCost] aur)"
 		Spanish:"Mejorar a [unitType] ([goldCost] de oro)"
-        Simplified_Chinese:"升级到 [unitType] 需要 ([goldCost] 钱"
+        	Simplified_Chinese:"升级到 [unitType] 需要 ([goldCost] 钱"
 		Portuguese:"Melhoria a [unitType] custará ([goldCost] ouro)"
 		German:"Verbessere [unitType] ([goldCost] Gold)"
+		Malay:"Naikkan taraf [unitType] ([goldCost] emas)"
 	}
 	
 	"Found city":{
@@ -242,8 +251,9 @@
 		German:"Stadt gründen"
 		Dutch:"Stad stichten"
 		Spanish:"Fundar ciudad"
-        Simplified_Chinese:"建立城市"
-        Portuguese:"Fundar Cidade"
+		Simplified_Chinese:"建立城市"
+		Portuguese:"Fundar Cidade"
+		Malay:"Mencipta Bandar"
 	}
 	
 	"Promote":{
@@ -254,8 +264,9 @@
 		German:"Befördern"
 		Dutch:"Promoveren"
 		Spanish:"Ascender"
-        Simplified_Chinese:"提升"
-        Portuguese:"Promover"
+		Simplified_Chinese:"提升"
+		Portuguese:"Promover"
+		Malay:"Menaikkan Pangkat"
 	}
 
 	"Health":{
@@ -266,8 +277,9 @@
 		German:"Gesundheit"
 		Dutch:"Gezondheid"
 		Spanish:"Salud"
-        Simplified_Chinese:"生命"
-        Portuguese:"Saúde"
+		Simplified_Chinese:"生命"
+		Portuguese:"Saúde"
+		Malay:"Kesihatan"
 	}
 
 	"Disband unit":{
@@ -280,16 +292,19 @@
 		Simplified_Chinese:"解雇单位"
 		Portuguese:"Desfazer unidade"
 		German:"Einheit auflösen"
+		Malay:"Membubarkan unit"
 	}
 	
 	"Explore":{
 		Romanian:"Explorează"
 		Spanish:"Explorar"
 		German:"Erkunden"
+		Malay:"Menjelajah"
 	}
 	
 	"Pillage":{
 		German:"Plündern"
+		Malay:"Penculikan"
 	}
 	
 	"Do you really want to disband this unit?":{
@@ -302,8 +317,11 @@
 		Simplified_Chinese:"您真的想解雇这个单位?"
 		Portuguese:"Voçê realmente quer desfazer essa unidade?"
 		German:"Wollen Sie diese Einheit wirklich auflösen?"
+		Malay:"Adakah anda benar-benar mahu membubarkan unit ini"
 	}
-	"Disband this unit for [goldAmount] gold?":{}
+	"Disband this unit for [goldAmount] gold?":{
+		Malay:"Membubarkan unit ini [goldAmount] emas?"
+	}
 	
 	"Yes":{
 		Italian:"Sì"
@@ -312,9 +330,10 @@
 		Romanian:"Da"
 		Dutch:"Ja"
 		Spanish:"Sí"
-        Simplified_Chinese:"是"
+       	        Simplified_Chinese:"是"
 		Portuguese:"Sim"
 		German:"Ja"
+		Malay:"Ya"
 	}
 	"No":{
 		Italian:"No"
@@ -323,9 +342,10 @@
 		Romanian:"Nu"
 		Dutch:"Nee"
 		Spanish:"No"
-    	Simplified_Chinese:"不"
+    		Simplified_Chinese:"不"
 		Portuguese:"Sim"
 		German:"Nein"
+		Malay:"Tidak"
 	}
 
 	// Stats
@@ -337,8 +357,9 @@
 		German:"Gold"
 		Dutch:"Goud"
 		Spanish:"Oro"
-    	Simplified_Chinese:"金钱"
-    	Portuguese:"Ouro"
+		Simplified_Chinese:"金钱"
+		Portuguese:"Ouro"
+		Malay:"Emas"
 	}
 
 	"Science":{
@@ -349,8 +370,9 @@
 		German:"Wissenschaft"
 		Dutch:"Wetenschap"
 		Spanish:"Ciencia"
-    	Simplified_Chinese:"科学"
-    	Portuguese:"Ciência"
+		Simplified_Chinese:"科学"
+		Portuguese:"Ciência"
+		Malay:"Sains"
 	}
 
 	"Happiness":{
@@ -361,8 +383,9 @@
 		German:"Zufriedenheit"
 		Dutch:"Tevredenheid"
 		Spanish:"Felicidad"
-    	Simplified_Chinese:"快乐度"
-    	Portuguese:"Felicidade"
+		Simplified_Chinese:"快乐度"
+		Portuguese:"Felicidade"
+		Malay;"Kebahagaian"
 	}
 
 	"Production":{
@@ -373,8 +396,9 @@
 		German:"Produktion"
 		Dutch:"Productie"
 		Spanish:"Producción"
-    	Simplified_Chinese:"生产力"
-    	Portuguese:"Produção"
+		Simplified_Chinese:"生产力"
+		Portuguese:"Produção"
+		Malay:"Pengeluaran"
 	}
 
 	"Culture":{
