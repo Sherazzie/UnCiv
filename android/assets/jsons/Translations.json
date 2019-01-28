@@ -26,6 +26,7 @@
 		Spanish:"Siguiente turno"
 		Simplified_Chinese:"下一回合"
 		Portuguese:"Proximo turno"
+		Malay:"Giliran seterusnya"	I
 	}
 	
 	"Working...":{ // Displayed when next turn is being...turned
@@ -38,6 +39,7 @@
 		Simplified_Chinese:"工作中"
 		Portuguese:"Trabalhando..."
 		German:"Bitte warten..."
+		Malay:"Sedang bekerja"
 	}
 	
 	"Turn":{ // For main screen at top left, e.g. Turn 234
@@ -50,6 +52,7 @@
 		Spanish:"Turno"
 		Simplified_Chinese:"回合"
 		Portuguese:"Turno"
+		Malay:"Giliran"
 	}
 
 	"in":{ // As in "Opera House in 3 turns"
@@ -62,6 +65,7 @@
 		Spanish:"en"
 		Simplified_Chinese:"在"
 		Portuguese:"em"
+		Malay:"dalam"
 	}
 	
 	"turns":{ // for e.g. turns to technology
@@ -74,6 +78,7 @@
 		Spanish:"turnos"
 		Simplified_Chinese:"回合"
 		Portuguese:"turnos"
+		Malay:"giliran"
 	}
 
 	// Unit
@@ -87,6 +92,7 @@
 		Spanish:"Movimiento"
 		Simplified_Chinese:"移动力"
 		Portuguese:"Movimento"
+		Malay:"Pegerakan"
 	}
 
 	"Strength":{
@@ -99,6 +105,7 @@
 		Spanish:"Fuerza"
 		Simplified_Chinese:"近战攻击"
 		Portuguese:"Força"
+		Malay:"Kekuatan"
 	}
 
 	"Ranged strength":{
@@ -111,6 +118,8 @@
 		Spanish:"Fuerza a distancia"
 		Simplified_Chinese:"远程攻击"
 		Portuguese:"Força a distancia"
+		Malay:"Kekuatan jarak jauh"
+		
 	}
 
 
@@ -125,6 +134,7 @@
 		Spanish:"Mover unidad"
 		Simplified_Chinese:"移动单位"
 		Portuguese:"Mover unidade"
+		Malay:"gerrakan unit"
 	}
 
 	"Stop movement":{
