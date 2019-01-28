@@ -320,7 +320,7 @@
 		Malay:"Adakah anda benar-benar mahu membubarkan unit ini"
 	}
 	"Disband this unit for [goldAmount] gold?":{
-		Malay:"Membubarkan unit ini [goldAmount] emas?"
+		Malay:"Membubarkan unit ini untuk [goldAmount] emas?"
 	}
 	
 	"Yes":{
@@ -409,8 +409,9 @@
 		German:"Kultur"
 		Dutch:"Cultuur"
 		Spanish:"Cultura"
-    	Simplified_Chinese:"文化"
-    	Portuguese:"Cultura"
+		Simplified_Chinese:"文化"
+		Portuguese:"Cultura"
+		Malay:"Budaya"
 	}
 
 	"Food":{
@@ -421,8 +422,9 @@
 		German:"Nahrung"
 		Dutch:"Eten"
 		Spanish:"Comida"
-    	Simplified_Chinese:"食物"
-    	Portuguese:"Comida"
+		Simplified_Chinese:"食物"
+		Portuguese:"Comida"
+		Malay:"Makanan"
 	}
 	
 	"GOLDEN AGE":{
@@ -433,8 +435,9 @@
 		German:"GOLDENES ZEITALTER"
 		Dutch:"GOUDEN EEUW"
 		Spanish:"EDAD DORADA"
-    	Simplified_Chinese:"黄金时代"
-    	Portuguese:"IDADE DOURADA"
+		Simplified_Chinese:"黄金时代"
+		Portuguese:"IDADE DOURADA"
+		Malay:"Usia Emas"
 	}
 
 	
@@ -446,9 +449,10 @@
 		French:"Civilopédie"
 		Romanian:"Civilopedie"
 		Spanish:"Civilopedia"
-    	Simplified_Chinese:"文明百科"
+    		Simplified_Chinese:"文明百科"
 		Portuguese:"Civilopédia"
 		German:"Civilopedia"
+		Malay:"Sivilpedia"
 	}
 
 	"Start new game":{
@@ -459,8 +463,9 @@
 		German:"Neues Spiel"
 		Dutch:"Nieuw spel"
 		Spanish:"Nueva partida"
-    	Simplified_Chinese:"开始新游戏"
-    	Portuguese:"Novo jogo"
+		Simplified_Chinese:"开始新游戏"
+		Portuguese:"Novo jogo"
+		Malay:"Memulakan permainan baru"
 	}
 	
 	"Save game":{
@@ -471,8 +476,9 @@
 		German:"Spiel speichern"
 		Dutch:"Spel opslaan"
 		Spanish:"Salvar partida"
-    	Simplified_Chinese:"储存游戏"
-    	Portuguese:"Salvar jogo"
+		Simplified_Chinese:"储存游戏"
+		Portuguese:"Salvar jogo"
+		Malay:"Menyimpan Permainan"
 	}
 	
 	"Load game":{
@@ -483,8 +489,9 @@
 		German:"Spiel laden"
 		Dutch:"Spel laden"
 		Spanish:"Cargar partida"
-    	Simplified_Chinese:"载入游戏"
-    	Portuguese:"Carregar partida"
+		Simplified_Chinese:"载入游戏"
+		Portuguese:"Carregar partida"
+		Malay:"Permainan beban"
 	}
 	
 	"Load copied data":{
@@ -495,8 +502,9 @@
 		German:"Aus Zwischenablage laden"
 		Dutch:"Gekopieerde data laden"
 		Spanish:"Cargar datos copiados"
-    	Simplified_Chinese:"加载复制过的数据"
-    	Portuguese:"Carregar dados copiados"
+		Simplified_Chinese:"加载复制过的数据"
+		Portuguese:"Carregar dados copiados"
+		Malay:"Memuatkan data yang disalin"
 	}
 	
 	"Could not load game from clipboard!":{
@@ -504,6 +512,7 @@
 		Simplified_Chinese:"无法从剪贴板加载游戏!"
 		Portuguese:"Não foi possivel carregar o jogo da prancheta"
 		German:"Das Spiel konnte nicht aus der Zwischenablage geladen werden!"
+		Malay:"Tidak dapat memuatkan permainan dari papan klip"
 	}
 	
 	// New game screen
@@ -514,9 +523,10 @@
 		French:"Démarrer la partie!"
 		Romanian:"Începe jocul!"
 		Spanish:"¡Empezar partida!"
-    	Simplified_Chinese:"开始游戏"
+    	 	Simplified_Chinese:"开始游戏"
 		Portuguese:"Começar partida!"
 		German:"Spiel starten!"
+		Malay:"Mula Permainan"
 	}
 	"Civilization:":{
 		Italian:"Civiltà:"
@@ -524,9 +534,10 @@
 		French:"Civilisation:"
 		Romanian:"Civilizaţie:"
 		Spanish:"Civilización"
-    	Simplified_Chinese:"文明"
+    		Simplified_Chinese:"文明"
 		Portuguese:"Civilização"
 		German:"Zivilisation"
+		Malay:"Tamadun"
 	}
 	"World size:":{
 		Italian:"Dimensione mappa:"
@@ -534,9 +545,10 @@
 		French:"Taille du monde:"
 		Romanian:"Mărime pământ:"
 		Spanish:"Tamaño del mundo"
-    	Simplified_Chinese:"世界大小"
+    		Simplified_Chinese:"世界大小"
 		Portuguese:"Tamanho do mundo"
 		German:"Weltgröße"
+		Malay:"Saiz dunia"
 	}
 	"Number of enemies:":{
 		Italian:"Numero di nemici:"
@@ -544,9 +556,10 @@
 		French:"Nombre d'ennemis:"
 		Romanian:"Număr inamici:"
 		Spanish:"Número de enemigos:"
-    	Simplified_Chinese:"敌人数量"
+    		Simplified_Chinese:"敌人数量"
 		Portuguese:"Numero de inimigos:"
 		German:"Anzahl der Gegner:"
+		Malay:"Bilangan musuh:"
 	}
 	
 
@@ -558,8 +571,9 @@
 		German:"Siegesstatus"
 		Dutch:"Overwinning Status"
 		Spanish:"Estatus de victoria"
-    	Simplified_Chinese:"胜利进程"
-    	Portuguese:"Status da vitória"
+		Simplified_Chinese:"胜利进程"
+		Portuguese:"Status da vitória"
+		Malay:"Status Kemenangan"
 	}
 
 	"Social policies":{
@@ -570,12 +584,14 @@
 		German:"Sozialpolitiken"
 		Dutch:"Sociaal beleid"
 		Spanish:"Políticas sociales"
-    	Simplified_Chinese:"社会政策"
-    	Portuguese:"Políticas sociais"
+		Simplified_Chinese:"社会政策"
+		Portuguese:"Políticas sociais"
+		Malay:"Dasar Sosial"
 	}
 	
 	"Options":{
 		German:"Optionen"
+		Malay:"pilihan"
 	}
 
 	"Display options":{
@@ -586,8 +602,9 @@
 		German:"Anzeigeeinstellungen"
 		Dutch:"Weergaveopties"
 		Spanish:"Opciones de pantalla"
-    	Simplified_Chinese:"显示选项"
-    	Portuguese:"Opções de Vídeo"
+		Simplified_Chinese:"显示选项"
+		Portuguese:"Opções de Vídeo"
+		Malay:"pilihan paparan"
 	}
 	
 	"Show":{
@@ -598,8 +615,9 @@
 		German:"Anzeigen"
 		Dutch:"Toon"
 		Spanish:"Mostrar"
-    	Simplified_Chinese:"展示"
-    	Portuguese:"Mostrar"
+		Simplified_Chinese:"展示"
+		Portuguese:"Mostrar"
+		Malay:"Tunjukkan"
 	}
 
 	"Hide":{
@@ -610,8 +628,9 @@
 		German:"Verstecken"
 		Dutch:"Verberg"
 		Spanish:"Ocultar"
-    	Simplified_Chinese:"隐藏"
-    	Portuguese:"Ocultar"
+		Simplified_Chinese:"隐藏"
+		Portuguese:"Ocultar"
+		Malay:"Sembunyi"
 	}
 	
 	"worked tiles":{
@@ -622,8 +641,9 @@
 		German:"bearbeitete Felder"
 		Dutch:"Bewerkte velden"
 		Spanish:"casillas trabajadas"
-    	Simplified_Chinese:"工作的地块"
-    	Portuguese:"Terreno trabalhado"
+		Simplified_Chinese:"工作的地块"
+		Portuguese:"Terreno trabalhado"
+		Malay:"Jubin dikerjai"
 	}
 
 	"resources and improvements":{
@@ -634,8 +654,9 @@
 		German:"Ressourcen und Verbesserungen"
 		Dutch:"Grondstoffen en Verbeteringen"
 		Spanish:"recursos y mejoras"
-    	Simplified_Chinese:"资源和改良设施"
-    	Portuguese:"recursos e melhorias"
+		Simplified_Chinese:"资源和改良设施"
+		Portuguese:"recursos e melhorias"
+		Malay:"Sumber dan penambahbaikan"
 	}
 
 	"Close":{
@@ -646,8 +667,9 @@
 		German:"Schließen"
 		Dutch:"Sluiten"
 		Spanish:"Cerrar"
-    	Simplified_Chinese:"关闭"
-    	Portuguese:"Fechar"
+		Simplified_Chinese:"关闭"
+		Portuguese:"Fechar"
+		Malay:"Tutup"
 	}
 
 	// City screen
@@ -659,8 +681,9 @@
 		German:"Stadt verlassen"
 		Dutch:"Stadscherm sluiten"
 		Spanish:"Salir de la ciudad"
-    	Simplified_Chinese:"离开城市界面"
-    	Portuguese:"Sair da cidade"
+		Simplified_Chinese:"离开城市界面"
+		Portuguese:"Sair da cidade"
+		Malay:"Keluar dari bandar"
 	}
 
 	"Raze city":{
@@ -671,8 +694,9 @@
 		German:"Stadt zerstören"
 		Dutch:"Stad vernietigen"
 		Spanish:"Arrasar ciudad"
-    	Simplified_Chinese:"焚城"
-    	Portuguese:"Saquear cidade"
+		Simplified_Chinese:"焚城"
+		Portuguese:"Saquear cidade"
+		Malay:"Memusnahkan bandar"
 	}
 
 	"Stop razing city":{
@@ -683,8 +707,9 @@
 		German:"Zerstörung anhalten"
 		Dutch:"Stad vernieteging stoppen"
 		Spanish:"Dejar de arrasar ciudad"
-    	Simplified_Chinese:"停止焚城"
-    	Portuguese:"Parar de Saquear cidade"
+		Simplified_Chinese:"停止焚城"
+		Portuguese:"Parar de Saquear cidade"
+		Malay:"Hentikan memusnahkan bandar"
 	}
 
 	"Buy for [amount] gold":{
@@ -695,14 +720,19 @@
 		German:"Für [amount] Gold kaufen"
 		Dutch:"Voor [amount] gold kopen"
 		Spanish:"Comprar por [amount] de oro"
-    	Simplified_Chinese:"购买花费 [amount] 钱"
-    	Portuguese:"Comprar por [amount] peças de ouro"
+		Simplified_Chinese:"购买花费 [amount] 钱"
+		Portuguese:"Comprar por [amount] peças de ouro"
+		Malay:"Beli untuk [amount] emas"
+		
 	}
 	
 	"Buy":{ // for when the construction is a wonder/special and can't be bought, the button is disabled but still displays text
+		Malay:"Beli"
 	}
 	
-	"Would you like to purchase [constructionName] for [buildingGoldCost] gold?":{}
+	"Would you like to purchase [constructionName] for [buildingGoldCost] gold?":{
+		Malay:"Anda ingin membeli [constructionName] untuk [buildingGoldCost] emas?"
+	}
 
 	"Maintenance cost":{
 		Italian:"Costo di manutenzione"
@@ -712,8 +742,9 @@
 		German:"Wartungskosten"
 		Dutch:"Onderhouskosten"
 		Spanish:"Coste de mantenimiento"
-    	Simplified_Chinese:"维护费"
-    	Portuguese:"Custo de manutenção"
+		Simplified_Chinese:"维护费"
+		Portuguese:"Custo de manutenção"
+		Malay:"Kos penyelenggaraan"
 	}
 	
 	"Pick construction":{
@@ -724,8 +755,9 @@
 		German:"Bauwerk auswählen"
 		Dutch:"Bouwwerk kiezen"
 		Spanish:"Elige la construcción"
-    	Simplified_Chinese:"选择建筑"
-    	Portuguese:"Escolher construção"
+		Simplified_Chinese:"选择建筑"
+		Portuguese:"Escolher construção"
+		Malay:"Pilih pembinaan"
 	}
 	
 	"Build [building]":{ // eg Build Granary
